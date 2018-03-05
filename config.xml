@@ -2,16 +2,16 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.winixeg.eduixmobile"
+        id        = "com.winix-eg.eduix"
         versionCode = "20190"
-        version   = "3.3.1">
-    <name>Eduix Mobile</name>
+        version   = "3.4.1">
+    <name>Eduix</name>
 
     <description>
         EDUIX Mobile official app
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
+    <author href="http://winix-eg.com" email="karim.mahmoud@winix-eg.com">
         Moodle Mobile team
     </author>
 
